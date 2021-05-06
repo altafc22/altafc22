@@ -9,16 +9,16 @@
 
 <h3>🛠 Tech Stack</h3>
 
-[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/android/android.png" alt="Android logo" width="32">](https://developer.android.com/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/ios/ios.png" alt="ios logo" width="32">](https://developer.apple.com/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/flutter/flutter.png" alt="flutter logo" width="32">](https://flutter.dev/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin logo" width="32">](https://kotlinlang.org/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/java/java.png" alt="Java logo" width="40">](https://www.java.com/en/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/dart/dart.png" alt="Dart logo" width="32">](https://dart.dev/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/dotnet/dotnet.png" alt=".Net logo" width="32">](https://dotnet.microsoft.com/)&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/laravel/laravel.png" alt="Laravel logo" width="32">](https://laravel.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/android/android.png" alt="Android logo" width="32">](https://developer.android.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/ios/ios.png" alt="ios logo" width="32">](https://developer.apple.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/flutter/flutter.png" alt="flutter logo" width="32">](https://flutter.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin logo" width="32">](https://kotlinlang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/java/java.png" alt="Java logo" width="40">](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/dart/dart.png" alt="Dart logo" width="32">](https://dart.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/dotnet/dotnet.png" alt=".Net logo" width="32">](https://dotnet.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/laravel/laravel.png" alt="Laravel logo" width="32">](https://laravel.com/)
 
 
 <br/>
 
-- 💻 &nbsp; Kotlin | Java | Flutter | PHP | React Native
-- 🛢 &nbsp; MySQL | RoomDB | SQLite | Oracle
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🖥 &nbsp; Figma | XD | Illustrator | Photoshop
-- 🔧 &nbsp; Git | SVN | Bitbucket
+- 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kotlin | Java | Flutter | PHP | React Native
+- 🛢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL | RoomDB | SQLite | Oracle
+- 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML | CSS | JavaScript 
+- 🖥 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figma | XD | Illustrator | Photoshop
+- 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git | SVN | Bitbucket
 
 <br/>
 
