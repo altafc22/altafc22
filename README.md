@@ -1,4 +1,4 @@
-<h2>✨ Hey there! I'm Altaf. ✨<img src="https://github.com/altafc22/altafc22/blob/master/gifs/hi.gif?raw=true" width="30px"></h2>
+<h2>Hey there! I'm Altaf. <img src="https://github.com/altafc22/altafc22/blob/master/gifs/hi.gif?raw=true" width="30px"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
