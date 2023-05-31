@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as Sr. Mobile Applcation Developer.
+- 💼 &nbsp; Working as Mobile Applcation Developer Lead.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about React.JS, iOS App developemnt and Artificial Intelligence.
 - ✍️ &nbsp; UI/UX Developer with creative mind.
