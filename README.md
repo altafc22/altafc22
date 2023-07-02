@@ -22,7 +22,7 @@
 
 <br/>
 
-[![Altaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altafc22&show_icons=true)](https://github.com/altafc22)
+<!-- [![Altaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altafc22&show_icons=true)](https://github.com/altafc22) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
