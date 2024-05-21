@@ -16,7 +16,7 @@
 
 - 💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kotlin | Java | Flutter | PHP | React Native
 - 🛢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL | RoomDB | SQLite | Oracle
-- 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML | CSS | JavaScript | Node.JS 
 - 🖥 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figma | XD | Illustrator | Photoshop
 - 🔧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git | SVN | Bitbucket
 
